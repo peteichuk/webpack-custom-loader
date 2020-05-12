@@ -2,4 +2,4 @@
 
 ### EG see in main.ts
 
-we have method `getValue` but after assembly, it is replaced by `setValue`
+we have method `originMethod` but after assembly, it is replaced by `fakeMethod` from config file `./configs/replacements.json`

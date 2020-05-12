@@ -2,7 +2,7 @@ import { Single } from './single';
 
 export class Main {
 
-  getValue(v: string): string {
+  originMethod(v: string): string {
     return v;
   }
 

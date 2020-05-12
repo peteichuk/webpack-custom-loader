@@ -1,6 +1,6 @@
 [
   {
-    "from": "getValue",
-    "to": "setValue"
+    "from": "originMethod",
+    "to": "fakeMethod"
   }
 ]
